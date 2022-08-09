@@ -1,0 +1,29 @@
+
+* {
+    box-sizing: border-box;}
+    
+body{
+   background-color: rgb(57, 199, 255);
+}
+.ff{
+    font-size: 100px;
+    color: aliceblue;
+}
+.all{
+    
+    font-size: 50px;
+}
+.ip{
+    height: 50px;
+    width: 300px;
+    border-radius: 5px ;
+}
+.det{
+    color: aliceblue;
+}
+.but{
+    height: 50px;
+    width: 300px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
